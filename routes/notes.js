@@ -1,3 +1,4 @@
+const { uri } = require('cookie-signature');
 var express = require('express');
 var router = express.Router();
 // 接続情報を設定
